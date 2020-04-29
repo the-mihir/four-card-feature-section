@@ -10,7 +10,7 @@ body{
 
 .header {
     max-width: 500px;
-    margin: 80px auto;
+    margin: 75px auto;
     text-align: center;
     
 }
@@ -63,11 +63,11 @@ p{
 .box-red{
     border-top: 4px solid red;
 }
-.box-orange{
-    border-top: 4px solid orange;
-}
 .box-blue{
     border-top: 4px solid blue;
+}
+.box-orange{
+    border-top: 4px solid orange;
 }
 
 .box-push{
